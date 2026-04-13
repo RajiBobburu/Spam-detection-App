@@ -58,14 +58,15 @@ streamlit run app.py
 - Model predicts spam or ham based on patterns
 - Result is displayed instantly in UI
 ---
-## Demo : 
-<img width="1820" height="906" alt="image" src="https://github.com/user-attachments/assets/ad585f7e-4623-4f70-b002-f589b7142b9a" />
------------------------------
 ## Use Cases
 - SMS spam detection
 - Email filtering
 - Fraud detection
 - Content moderation
+---
+## Demo : 
+<img width="1820" height="906" alt="image" src="https://github.com/user-attachments/assets/ad585f7e-4623-4f70-b002-f589b7142b9a" />
+
 
 
 Author : Raji Bobburu
